@@ -7,6 +7,4 @@ do
 echo "cantidad de lineas"
 wc -l loremipsum-$i.txt
 
-
 done
-
